@@ -1,0 +1,21 @@
+.ulclass{
+    margin-left: 700px;
+}
+ .footerClass{
+    
+    /* clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 5%);
+     */
+     /* clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 10%); */
+     /* clip-path: polygon(100% 0, 100% 100%, 2% 100%, 0 12%); */
+     clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 12%);
+} 
+.mrClass{
+    margin-bottom: 300px;
+}
+.imgClip{
+    /* clip-path: polygon(100% 0, 100% 80%, 0 93%, 1% 0); */
+    clip-path: polygon(100% 0, 100% 80%, 0 94%, 0 0);
+}
+.mrInput{
+    margin-left: 250px;
+}
